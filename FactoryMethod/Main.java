@@ -1,3 +1,4 @@
+
 package factory;
 
 import java.util.Scanner;
@@ -32,3 +33,16 @@ public class Main {
 		
 
 }
+
+
+/*
+	Factory method is a creational design pattern which solves the problem of creating product objects
+ 	without specifying their concrete classes.
+
+ 	Ex : Rent vehicle Company every week has a different types of vehicles , 
+  	okay that is great but we won't edit entire code every week we will just add new class for new vehicles
+
+
+
+
+*/
