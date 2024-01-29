@@ -14,3 +14,8 @@ public class Main {
 	}
 
 }
+/*Abstract Factory is a creational design pattern that lets you produce families of related objects without specifying their concrete classes.*/
+/*
+	Ex : Rent Vehicle service has the following services
+ 		Rent and Sell Bikes and Cars 
+*/
